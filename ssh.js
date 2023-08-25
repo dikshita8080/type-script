@@ -24,4 +24,8 @@
 // git branch
 //$ git checkout adding
 
-hello
+//$ git add .
+// $ git commit -m "third commit"
+// $ git push
+// $ git checkout master
+// $ git merge adding
